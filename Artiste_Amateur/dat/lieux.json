@@ -1,0 +1,42 @@
+[
+    {
+	"id_lieu": "1",
+	"nom": "",
+	"adresse": ""
+    },
+    {
+	"id_lieu": "2",
+	"nom": "",
+	"adresse": ""
+    },
+    {
+	"id_lieu": "3",
+	"nom": "",
+	"adresse": ""
+    },
+    {
+	"id_lieu": "4",
+	"nom": "",
+	"adresse": ""
+    },
+    {
+	"id_lieu": "5",
+	"nom": "",
+	"adresse": ""
+    },
+    {
+	"id_lieu": "6",
+	"nom": "Club de l’Étoile",
+	"adresse": "14 rue Troyon, 75017 Paris"
+    },
+    {
+	"id_lieu": "7",
+	"nom": "Le Champo",
+	"adresse": "51 rue des Écoles, 75005 Paris"
+    },
+    {
+	"id_lieu": "8",
+	"nom": "Les 7 Parnassiens",
+	"adresse": "98 boulevard du Montparnasse, 75014 Paris"
+    }
+]

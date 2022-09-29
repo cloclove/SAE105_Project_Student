@@ -1,0 +1,94 @@
+[
+    {
+	"id_artiste": "1",
+	"titre": "Célia Tabi",
+	"age": "19 ans",
+	"Passion": "La mode, le sport et le dessin",
+	"type": "Comic Strip, Fanart, Portrait..",
+	"synopsis": "Célia, une jeune étudiante en BTS MCO (Management Commercial), est passionnée par la mode, Youtube et les réseaux sociaux, elle se met à dessiner par loisir durant toute son enfance, jusqu'à maintenant, elle évolue de jour en jour toujours plus et réalise des dessins digitaux toujours aussi exceptionnels et évolue d'année en année.",
+	"affiche": "img/celiapp.png",
+	"image_artiste": "img/oeuvre/celia/Comicelia.png",
+	"oeuvres": "<img class=\"oeuvres2\" src=\"img/oeuvre/celia/fanfic.png\" alt=\"img2\"> <img class=\"oeuvres3\" src=\"img/oeuvre/celia/portraitcelia.png\" alt=\"img3\">"
+    },
+    {
+	"id_artiste": "2",
+	"titre": "Chloé Bilbault-Young",
+	"age": "19 ans",
+	"Passion": "Jeux vidéo, Cinéma, Dessin",
+	"type": "Comic Strip, Illustration, Meme ...",
+	"synopsis": "Chloé, une jeune étudiante en BUT MMI (Multimédia et de l'internet), est passionné par le monde du jeu vidéo, le cinéma, elle se met à dessiner par loisir durant toute sa scolarité et essaye de développer aujourd'hui sa créativité dans sa formation à l'IUT de Bobigny.",
+	"affiche": "img/chloepp",
+	"image_artiste": "img/oeuvre/Chloe/pichu.png",
+	"oeuvres": "<img class=\"oeuvres2\" src=\"img/oeuvre/Chloe/meme.png\" alt=\"meme\"> <img class=\"oeuvres3\" src=\"img/oeuvre/Chloe/Monster.png\" alt=\"monster\"> "
+    },
+    {
+	"id_artiste": "3",
+	"titre": "Oriane Foy",
+	"age": "18 ans",
+	"Passion": "Jeux vidéo,Design",
+	"type": "Fanart, Portrait ...",
+	"synopsis": "Voici Oriane, une jeune étudiante en BUT MMI (Multimédia et de l'internet), est passionné par le monde du jeu vidéo, elle se met à dessiner par loisir durant toute sa scolarité, elle adore passer du temps avec ses amis en vocale pour jouer et exploite son potentiel en infographie dans sa formation à l'IUT de Bobigny.",
+	"affiche": "img/oripp.png",
+	"image_artiste": "img/oeuvre/Ori/img1.png",
+	"oeuvres": "<img class=\"oeuvres2\" src=\"img/oeuvre/Ori/img2.png\" alt=\"img2\"> <img class=\"oeuvres3\" src=\"img/oeuvre/Ori/img3.png\" alt=\"img3\">"
+    },
+    {
+	"id_artiste": "4",
+	"titre": "Clinton Bowers",
+	"age": "37 ans",
+	"Passion": "Fantaisie, Mythologie",
+	 
+	"type": "Illustration, Portrait..",
+	"synopsis": "Passionnés par la mythologie, les Vikings et le monde fantaisie Clinton Bowers se lancent dans l'illustration et dans la vente de vêtements, sacs et autres articles utiles dans la vie de tous les jours.",
+	"affiche": "img/Wyldtreespp",
+	"image_artiste": "img/oeuvre/Wyldtrees/illustration1.png",
+	
+	"oeuvres": "<img class=\"oeuvres2\" src=\"img/oeuvre/Wyldtrees/img2.png\" alt=\"img2\"> <img class=\"oeuvres3\" src=\"img/oeuvre/Wyldtrees/img3.png\" alt=\"img3\">"
+    },
+    {
+	"id_artiste": "5",
+	"titre": "Gladys Gamichon",
+	"age": "45 ans",
+	"Passion": "L'art, la littérature et la mode",
+	"type": "Peinture, Illustration, Comic Strip ..",
+	"synopsis": "Voici Gladys, professeur de lycée en spécialité Management et Marketing dans la filière STMG (Sciences et Technologies du Management et de la Gestion). Gladys adore la peinture, l'illustration et exprime beaucoup ses émotions à travers ses oeuvres .",
+	"affiche": "img/Gladyspp",
+	"image_artiste": "img/oeuvre/Gladys/img1.png",
+	"oeuvres": "<img class=\"oeuvres2\" src=\"img/oeuvre/Gladys/img2.png\" alt=\"img2\"> <img class=\"oeuvres3\" src=\"img/oeuvre/Gladys/img3.png\" alt=\"img3\">"
+    },
+    {
+	"id_artiste": "6",
+	"titre": "Eupholie (Margot)",
+	"age": "21 ans",
+	"Passion": "Dessin, Adore les abeilles  ",
+	"type": "Comics, Fan Art, Illustration, Animation ...",
+	"synopsis": "Eupholie est une jeune dessinatrice avec beaucoup de notoriété sur Instagram par rapport à certains de ces dessins, notamment  des dessins d'animations sur une abeille",
+	"affiche": "img/eupholiepp.png  ",
+	"image_artiste": "img/oeuvre/Eupholie/img1.png",
+	"oeuvres": "<img class=\"oeuvres2\" src=\"img/oeuvre/Eupholie/img2.jpg\" alt=\"img2\"> <img class=\"oeuvres3\" src=\"img/oeuvre/Eupholie/img3.jpg\">"
+    },
+    {
+	"id_artiste": "7",
+	"titre": "Denise Rachidi",
+	"age": "???",
+	"Passion": "La photographie, le dessin, jeux vidéo et le voyage ",
+	"type": "Photographie, Illustration, Street Art, Montage ",
+	"synopsis": "Voici Denise Rashidi. En grandissant, elle a toujours été entourée de différentes cultures en raison de son héritage mixte et des voyages constants entre les familles. Ce n'est que lors de son premier voyage au Japon qu'elle a découvert son amour pour les motifs architecturaux, la nature et les couleurs pastel nostalgiques, ce qui l'a amenée à traduire ses expériences de voyage dans son propre style \"Neon Pastel\". Elle aime créer des lieux et des scènes qui sont souvent basés sur des lieux réels, tout en ajoutant une touche onirique pour les transformer en un monde de rêve. Son objectif principal est de donner aux spectateurs de ses œuvres un sentiment de chaleur, de familiarité et de nostalgie onirique, même s'ils n'ont aucun lien personnel avec les lieux qu'elle dépeint. Elle a notamment été chargée par Coca-Cola (pour Fanta), le gouvernement métropolitain de Tokyo, SEGA, WIRED, Warner Music et Procreate de créer des œuvres d'art uniques. En outre, elle a également travaillé dans le domaine de l'animation, a réalisé des produits dérivés et des concepts artistiques pour des jeux vidéo et d'autres médias, et a fait l'objet d'articles dans des magazines imprimés. Denise est une artiste indépendante et travaille actuellement sur des projets non annoncés dans l'industrie du divertissement. Elle est disponible pour des projets et des collaborations.",
+	"affiche": "img/denisepp.png",
+	"image_artiste": "img/oeuvre/Denise/img1.jpg",
+	"oeuvres": "<img class=\"oeuvres2\" src=\"img/oeuvre/Denise/img2.png\" alt=\"img2\"> <img class=\"oeuvres3\" src=\"img/oeuvre/Denise/img3.png\" alt=\"img3\" <img class=\"oeuvres4\" src=\"img/oeuvre/Denise/img4.png\" alt=\"img4\">"
+    },
+    {
+	"id_artiste": "8",
+	"titre": "Ollie Jamie",
+	"age": "26 ans",
+	"Passion": "Pixel Art, Jeux vidéo",
+	" ": "Jacques-Rémy Girerd, Antoine Lanciaux et Iouri Tcherenkov",
+	"type": "Le Pixel Art et Animation 2D",
+	"synopsis": "Voici Ollie Jamie, un passionné de jeux vidéo et jeu rétro, il réalise donc plusieurs pixel Art de ses jeux préférés (Sonic, Mario, Kirby et Pokemon ...)",
+	"affiche": "img/Olliepp.jpg",
+	"image_artiste": "img/oeuvre/Ollie/img1.jpg",
+	"oeuvres": "<img class=\"oeuvres2\" src=\"img/oeuvre/Ollie/img2.jpg\" alt=\"img2\"> <img class=\"oeuvres3\" src=\"img/oeuvre/Ollie/img3.jpg\">"
+    }
+ 
+]

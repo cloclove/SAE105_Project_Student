@@ -1,0 +1,309 @@
+/* Exemple de feuille de style moche. */
+
+/* Pour avoir des idees de degrades de couleur :
+   https://www.w3schools.com/colors/colors_picker.asp */
+
+a:link {
+    color: #b780ff;
+}
+
+a:visited {
+    color: #ed66ff;
+}
+
+.oeuvres {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.oeuvres h4 {
+    font-size: 1.6vw;
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+background: url(../img/Backgroundcelia.jpg) center top ;
+background-size: cover;
+background-size: 450%;
+color: white;
+padding-left: 2%;
+padding-right: 2%;
+}
+
+.artiste {
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0vw 0vw 0vw 0vw;
+    padding: 0vw 0vw 0vw 0vw;
+}
+
+.artiste.affiche_a_droite {
+    flex-direction: row;
+}
+
+
+
+.artiste.affiche_a_gauche {
+    flex-direction: row-reverse;
+}
+
+.artiste.pleine_page .liste_artiste {
+border-radius: 0.5vw;
+    margin: 0vw 2vw 0vw 2vw;
+    padding: 2vw 3vw 2vw 2vw;
+    width: 85%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 2vw;
+}
+
+
+.artiste.pleine_page .liste_artiste .image_artiste {
+    width: 85%;
+    margin-top: 2vw;
+    margin-right: auto;
+    margin-bottom: 2vw;
+    margin-left: auto;
+}
+
+.artiste .affiche {
+    margin: 0.3vw 0.3vw 0.3vw 0.3vw;
+    width: 40%;
+}
+
+.artiste .affiche img {
+    border: rgb(53, 2, 26) 1px solid;
+    width: 68%;
+    height: 98%;
+    
+}   
+
+.artiste .liste_artiste {
+    background-image: linear-gradient(to top left, #A20225, #820327,#620922, #420f1d);
+    border-radius: 0.2vw;
+    color: #ffffff;
+    margin: 0.3vw 0.3vw 0.3vw 0.3vw;
+    padding: 0.3vw 0.3vw 0.3vw 0.3vw;
+    width: 54%;
+}
+
+.artiste .liste_artiste img {
+    width: 100%;
+
+}
+
+img.oeuvres
+{
+    width: 300px;
+    height: 300px;
+    margin: 0.3vw 0.3vw 0.3vw;
+}
+
+img.oeuvres2
+{
+    width: 300px;
+    height: 300px;
+    margin: 0.3vw 0.3vw 0.3vw;
+}
+
+img.oeuvres3
+{
+    width: 300px;
+    height: 300px;
+    margin: 0.3vw 0.3vw 0.3vw;
+}
+img.oeuvres4
+{
+    width: 300px;
+    height: 300px;
+    margin: 0.3vw 0.3vw 0.3vw;
+}
+.artiste .liste_artiste table td {
+    text-align: left;
+    vertical-align: top;
+}
+
+.artiste .liste_artiste .titre_artiste {
+    text-align: center;
+    width: 100%;
+}
+
+/* Police test d'écriture */
+@font-face { font-family: Rentukka; src: url('../police/font-rentukka/Rentukka-Regular.otf'); } 
+
+h1 {
+    font-size: 3.2vw;
+    font-family: 'Rentukka', sans-serif;
+    text-align: center;
+    font-weight: 800;
+}
+
+h2 {
+    font-size: 2.4vw;
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Rentukka', sans-serif;
+    font-weight: 640;
+}
+
+h3 {
+    font-size: 2.0vw;
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4 {
+    font-size: 1.6vw;
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    top: 20px;
+    left: 0px;
+    position: fixed;
+    width: 180px;
+    height: 110px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  
+}
+
+.logo img {
+    width: 57%;
+}
+
+.mentions_legales {
+    border-radius: 1vw;
+    padding: 1vw 1vw 1vw 1vw;
+    background-image: linear-gradient(to bottom, #4e0218, #4F041A, #4F051B,#4F081E, #4F0B21, #4F0E24);
+    color: #ffffff;
+    font-family: 'Oswald', sans-serif;
+}
+
+.mentions_legales h3 {
+    font-size: 1.4vw;
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.mentions_legales h4 {
+    font-size: 1.0vw;
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.mentions_legales p {
+    font-size: 0.8vw;
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+p {
+    font-size: 1.2vw;
+    text-align: left;
+}
+
+p.type {
+    font-size: 1.0vw;
+    text-align: left;
+}
+
+.page_artiste {
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 1vw;
+    padding: 1vw 1vw 1vw 1vw;
+    background-image: linear-gradient(to bottom, #4e0218, #4F041A, #4F051B,#4F081E, #4F0B21, #4F0E24);
+width: 96%;
+}
+
+.pied_de_page {
+    padding-left: auto;
+    padding-right: auto;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    display: flex;
+    justify-content: center;
+    color: #000000;
+}
+
+.programme {
+font-family: 'Oswald', sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border-radius: 1vw;
+    padding: 1vw 1vw 1vw 1vw;
+    background-image: linear-gradient(to bottom, #4e0218, #4F041A, #4F051B,#4F081E, #4F0B21, #4F0E24);
+    align-items: center;
+    width: 93%;
+}
+
+.seance {
+    font-family: 'Oswald', sans-serif;
+    margin: 2vw 0vw 0vw 1vw;
+    padding: 0vw 1vw 0vw 1vw;
+    border-radius: 2vw;
+    color: white;
+    background-image: linear-gradient(to bottom left, #A20225, #820327,#620922, #420f1d);
+    width: 90%;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.seance .dhseance {
+    text-align: center;
+    width: 100%;
+}
+
+.seance .artiste.liste_artiste a.voir_plus {
+    position: absolute;
+}
+
+.seance .artiste .liste_artiste a.voir_plus span {
+    display: none;
+}
+
+.seance .artiste .liste_artiste a.voir_plus:hover span {
+    display: block;
+    position: relative;
+    background-color: #460114;
+    padding: 5px 15px 5px 15px;
+    font-size: 0.8vw;
+    left: 50px;
+    width: 35em;
+}
+
+/* Pour être sur que le bloc section est en block*/ 
+section {display: block;}
